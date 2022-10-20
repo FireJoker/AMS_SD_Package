@@ -1,5 +1,7 @@
 # AMS_SD_Package
-CFW package for the Nintendo Switch, this package follows the instresture of [NH Switch Guide](https://nh-server.github.io/switch-guide/user_guide/emummc/sd_preparation/)includes:
+CFW package for the Nintendo Switch
+In order to connect to the internet, need to delete atmosphere/hosts/default.txt
+this package follows the instresture of [NH Switch Guide](https://nh-server.github.io/switch-guide/user_guide/emummc/sd_preparation/)includes:
 * The latest release of  [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases)(Download the atmosphere-(version)-master-(version)+hbl-(version)+hbmenu-(version).zip release of Atmosphere).
 * The latest release of  [Hekate](https://github.com/CTCaer/Hekate/releases)(Download the hekate_ctcaer_(version).zip release of hekate).
 * The hekate config file: [hekate_ipl.ini](https://nh-server.github.io/switch-guide/files/sys/hekate_ipl.ini).
