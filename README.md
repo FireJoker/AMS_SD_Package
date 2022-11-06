@@ -10,13 +10,15 @@ This package follows the instruction of [NH Switch Guide](https://nh-server.gith
 - The latest release of [Lockpick_RCM](https://github.com/shchmue/Lockpick_RCM/releases) (Download the Lockpick_RCM.bin release of Lockpick).
 - The latest release of [JKSV](https://github.com/J-D-K/JKSV/releases) (Download the JKSV.nro release of JKSV).
 - The latest release of [FTPD](https://github.com/mtheall/ftpd/releases) (Download the ftpd.nro release of FTPD).
-- The latest release of [DBI](https://github.com/rashevskyv/dbi/releases) (Download the ftpd.nro release of DBI).
+- The latest release of [DBI](https://github.com/rashevskyv/dbi/releases) (Download the DBI.nro release of DBI).
 - The latest release of [hbappstore](https://github.com/fortheusers/hb-appstore/releases)(Download the appstore.nro release of hbappstore)
 - The latest release of [Sys-botbase](https://github.com/olliz0r/sys-botbase/releases).
 - The latest release of [ldn_mitm](https://github.com/spacemeowx2/ldn_mitm/releases).
+- The latest release of [sigmapatches](https://sigmapatches.coomer.party).
 
 
 ## Additional information you may need:
+- [Tinfoil](https://tinfoil.io/Download) 
 - [EdiZon](https://github.com/WerWolv/EdiZon) 
 - [Emuiibo](https://github.com/XorTroll/emuiibo) 
 - [NX-Shell](https://github.com/joel16/NX-Shell)
