@@ -1,4 +1,8 @@
 # CFW package for the Nintendo Switch
+=====
+<div>
+  <span>English</span> / <a href=".github/README-zh.md">¼òÌåÖÐÎÄ</a>
+</div>
 
 This package follows the instruction of [NH Switch Guide](https://nh-server.github.io/switch-guide/user_guide/emummc/sd_preparation/), and includes:
 - The latest release of [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases) (Download the atmosphere-(version)-master-(version)+hbl-(version)+hbmenu-(version).zip).
@@ -34,7 +38,7 @@ Download the latest release and put it on your SD card.</br>
 Send the Hekate payload to your Switch in RCM mode and launch the CFW.
 
 ## Note: 
-In order to connect to the internet, you need to delete the [default.txt](https://github.com/FireJoker/AMS_SD_Package/tree/main/atmosphere/hosts) file
+In order to connect to the internet, you need to delete the [default.txt](https://github.com/FireJoker/AMS_SD_Package/tree/main/atmosphere/hosts) file</br>
 **DO NOT** connect to the internet under emuMMC.</br>
 You will see an **E** at the end of your **Current version:** in your **System Setting**</br>
 For example: Current version: 15.0.0|AMS 1.4.0|E</br>
