@@ -1,42 +1,35 @@
-# ´óÆø²ãÕûºÏ°ü
-=====
-±¾ÕûºÏ°ü¸ù¾İ [NH Switch Guide](https://nh-server.github.io/switch-guide/user_guide/emummc/sd_preparation/)ÕûÀí£¬²¢°üº¬ÁËÒÔÏÂ²å¼ş£º
-- ×îĞÂµÄ·¢ĞĞ°æ [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases) (Download the atmosphere-(version)-master-(version)+hbl-(version)+hbmenu-(version).zip).
-- ×îĞÂµÄ·¢ĞĞ°æ [Hekate](https://github.com/CTCaer/Hekate/releases) (Download the hekate_ctcaer_(version).zip).
-- Hekate ÅäÖÃÎÄ¼ş£º[hekate_ipl.ini](https://nh-server.github.io/switch-guide/files/sys/hekate_ipl.ini).
-- Í¼±êÑ¹ËõÎÄ¼ş£º[bootlogos.zip](https://nh-server.github.io/switch-guide/files/bootlogos.zip).
-- ÆÁ±ÎÍøÕ¾ÁĞ±í£º[emummc.txt](https://nh-server.github.io/switch-guide/files/emummc.txt).
+# å¤§æ°”å±‚æ•´åˆåŒ…
 
-- ×îĞÂµÄ·¢ĞĞ°æ [Lockpick_RCM](https://github.com/shchmue/Lockpick_RCM/releases) (Download the Lockpick_RCM.bin release of Lockpick).
-- ×îĞÂµÄ·¢ĞĞ°æ [JKSV](https://github.com/J-D-K/JKSV/releases) (Download the JKSV.nro release of JKSV).
-- ×îĞÂµÄ·¢ĞĞ°æ [FTPD](https://github.com/mtheall/ftpd/releases) (Download the ftpd.nro release of FTPD).
-- ×îĞÂµÄ·¢ĞĞ°æ [DBI](https://github.com/rashevskyv/dbi/releases) (Download the DBI.nro release of DBI).
-- ×îĞÂµÄ·¢ĞĞ°æ[hbappstore](https://github.com/fortheusers/hb-appstore/releases)(Download the appstore.nro release of hbappstore)
-- ×îĞÂµÄ·¢ĞĞ°æ [Sys-botbase](https://github.com/olliz0r/sys-botbase/releases).
-- ×îĞÂµÄ·¢ĞĞ°æ [ldn_mitm](https://github.com/spacemeowx2/ldn_mitm/releases).
-- ×îĞÂµÄ·¢ĞĞ°æ [sigmapatches](https://sigmapatches.coomer.party).
+æœ¬æ•´åˆåŒ…æ ¹æ® [NH Switch Guide](https://nh-server.github.io/switch-guide/user_guide/emummc/sd_preparation/)æ•´ç†ï¼Œå¹¶åŒ…å«äº†ä»¥ä¸‹æ’ä»¶ï¼š
+- æœ€æ–°çš„å‘è¡Œç‰ˆ [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases) (Download the atmosphere-(version)-master-(version)+hbl-(version)+hbmenu-(version).zip).
+- æœ€æ–°çš„å‘è¡Œç‰ˆ [Hekate](https://github.com/CTCaer/Hekate/releases) (Download the hekate_ctcaer_(version).zip).
+- æœ€æ–°çš„å‘è¡Œç‰ˆ [Lockpick_RCM](https://github.com/shchmue/Lockpick_RCM/releases) (Download the Lockpick_RCM.bin release of Lockpick).
+- æœ€æ–°çš„å‘è¡Œç‰ˆ [JKSV](https://github.com/J-D-K/JKSV/releases) (Download the JKSV.nro release of JKSV).
+- æœ€æ–°çš„å‘è¡Œç‰ˆ [DBI](https://github.com/rashevskyv/dbi/releases) (Download the DBI.nro release of DBI).
+- æœ€æ–°çš„å‘è¡Œç‰ˆ [hbappstore](https://github.com/fortheusers/hb-appstore/releases)(Download the appstore.nro release of hbappstore)
+- æœ€æ–°çš„å‘è¡Œç‰ˆ [Sys-botbase](https://github.com/olliz0r/sys-botbase/releases).
+- æœ€æ–°çš„å‘è¡Œç‰ˆ [ldn_mitm](https://github.com/spacemeowx2/ldn_mitm/releases).
+- æœ€æ–°çš„å‘è¡Œç‰ˆ [sigmapatches](https://sigmapatches.coomer.party/sigpatches.zip).
 
 
-## ÆäËû¿ÉÄÜĞèÒªµÄ²å¼ş£º
+## å…¶ä»–å¯èƒ½éœ€è¦çš„æ’ä»¶ï¼š
 - [Tinfoil](https://tinfoil.io/Download) 
+- [Tesla-Menu](https://github.com/WerWolv/Tesla-Menu)
 - [EdiZon](https://github.com/WerWolv/EdiZon) 
 - [Emuiibo](https://github.com/XorTroll/emuiibo) 
 - [NX-Shell](https://github.com/joel16/NX-Shell)
 - [sys-clk](https://github.com/retronx-team/sys-clk)
 - [sys-con](https://github.com/cathery/sys-con)
-- [sys-ftpd-light](https://github.com/cathery/sys-ftpd-light)
-- [Tesla-Menu](https://github.com/WerWolv/Tesla-Menu)
 
 
-## ÈçºÎÊ¹ÓÃ
-Ê×ÏÈ£¬ÄúĞèÒªÓĞÒ»Ì¨ÆÆ½â°æNS£¬¿ÉÒÔ¸ù¾İ[½Ì³Ì](http://switch.homebrew.guide)½øĞĞÆÆ½â¡£</br>
-ÏÂÔØ×îĞÂ°æÑ¹Ëõ°ü£¬²¢·Åµ½SC¿¨ÖĞ¡£</br>
-ÔÚ RCM Ä£Ê½ÏÂ½« Hekate ÓĞĞ§¸ºÔØ·¢ËÍµ½ÄúµÄ Switch ²¢Æô¶¯ CFW¡£
+## å¦‚ä½•ä½¿ç”¨
+é¦–å…ˆï¼Œæ‚¨éœ€è¦æœ‰ä¸€å°ç ´è§£ç‰ˆNSï¼Œå¯ä»¥æ ¹æ®[æ•™ç¨‹](http://switch.homebrew.guide)è¿›è¡Œç ´è§£ã€‚</br>
+ä¸‹è½½æœ€æ–°ç‰ˆå‹ç¼©åŒ…ï¼Œå¹¶æ”¾åˆ°SCå¡ä¸­ã€‚</br>
+åœ¨ RCM æ¨¡å¼ä¸‹å°† Hekate æœ‰æ•ˆè´Ÿè½½å‘é€åˆ°æ‚¨çš„ Switch å¹¶å¯åŠ¨ CFWã€‚
 
-## Note: 
-±¾ÕûºÏ°üÄ¬ÈÏ½ûÖ¹ÁªÍø¡£ÎªÁËÁ¬½Óµ½»¥ÁªÍø£¬ÄúĞèÒªÉ¾³ı[default.txt](https://github.com/FireJoker/AMS_SD_Package/tree/main/atmosphere/hosts)ÎÄ¼ş¡£
-**²»Òª** ÔÚĞéÄâÏµÍ³Á¬½ÓÍøÂç£¬²»È»ºó¹û×Ô¸º¡£</br>
-ÔÚÏµÍ³ÉèÖÃÖĞ£¬Èç¹ûÔÚµ±Ç°ÏµÍ³ºóÓĞºó×º**E**£¬Ôò±íÊ¾µ±Ç°ÎªĞéÄâÏµÍ³£»</br>
-ÀıÈç£ºµ±Ç°ÏµÍ³£º16.0.0|AMS 1.5.0|E</br>
-Èç¹ûÔÚµ±Ç°ÏµÍ³ºóÓĞºó×º**S**£¬Ôò±íÊ¾µ±Ç°ÎªÕæÊµÏµÍ³£»</br>
-ÀıÈç£ºµ±Ç°ÏµÍ³£º16.0.0|AMS 1.5.0|S</br>
+## æ³¨æ„ï¼š
+ä¸è¦åœ¨è™šæ‹Ÿç³»ç»Ÿè¿æ¥ç½‘ç»œï¼Œä¸ç„¶åæœè‡ªè´Ÿã€‚</br>
+åœ¨ç³»ç»Ÿè®¾ç½®ä¸­ï¼Œå¦‚æœåœ¨å½“å‰ç³»ç»Ÿåæœ‰åç¼€Eï¼Œåˆ™è¡¨ç¤ºå½“å‰ä¸ºè™šæ‹Ÿç³»ç»Ÿï¼›</br>
+ä¾‹å¦‚ï¼šå½“å‰ç³»ç»Ÿï¼š16.0.0|AMS 1.5.0|E</br>
+å¦‚æœåœ¨å½“å‰ç³»ç»Ÿåæœ‰åç¼€Sï¼Œåˆ™è¡¨ç¤ºå½“å‰ä¸ºçœŸå®ç³»ç»Ÿï¼›</br>
+ä¾‹å¦‚ï¼šå½“å‰ç³»ç»Ÿï¼š16.0.0|AMS 1.5.0|S
