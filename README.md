@@ -31,7 +31,7 @@ This package follows the instruction of [NH Switch Guide](https://nh-server.gith
 First of all, you need a hacked Switch. Follow the [guide](http://switch.homebrew.guide) to hack your switch.</br>
 Download the latest release and put it on your SD card.</br>
 Send the Hekate payload to your Switch in RCM mode and launch the CFW.
-
+Press *R* and Album to homebrew menu.
 
 ## Note: 
 **DO NOT** connect to the internet under emuMMC.</br>
