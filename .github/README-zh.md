@@ -2,7 +2,7 @@
 
 本整合包根据 [NH Switch Guide](https://nh-server.github.io/switch-guide/user_guide/emummc/sd_preparation/)整理，并包含了以下插件：
 - 最新的发行版 [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases) (Download the atmosphere-(version)-master-(version)+hbl-(version)+hbmenu-(version).zip).
-- 最新的发行版 [Hekate](https://github.com/CTCaer/Hekate/releases) (Download the hekate_ctcaer_(version).zip).
+- 最新的发行版 [Hekate](https://github.com/CTCaer/Hekate/releases) (Download the hekate_ctcaer_(version).zip); 汉化版 [Hekate](https://github.com/easyworld/hekate/releases).
 - 最新的发行版 [Lockpick_RCM](https://github.com/shchmue/Lockpick_RCM/releases) (Download the Lockpick_RCM.bin release of Lockpick).
 - 最新的发行版 [JKSV](https://github.com/J-D-K/JKSV/releases) (Download the JKSV.nro release of JKSV).
 - 最新的发行版 [DBI](https://github.com/rashevskyv/dbi/releases) (Download the DBI.nro release of DBI).
@@ -24,7 +24,9 @@
 
 ## 如何使用
 首先，您需要有一台破解版NS，可以根据[教程](http://switch.homebrew.guide)进行破解。</br>
-下载最新版压缩包，并放到SC卡中。</br>
+下载最新版压缩包，并放到SD卡中。</br>
+如果您的switch是硬破，则需要将 hekate_ctcaer_x.x.x.bin 重命名为payload.bin放入SD卡根目录中。
+如果您的switch是软破，则需要更新您的RCM注入设备或PC上tegraRCM的注入文件。
 在 RCM 模式下将 Hekate 有效负载发送到您的 Switch 并启动 CFW。
 该版本改用按住*R*再点击相册进入自制系统界面
 
