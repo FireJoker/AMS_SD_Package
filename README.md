@@ -40,4 +40,4 @@ Press *R* and Album to homebrew menu.
 
 ## Note: 
 You will see an **E** at the end of your **Current version:** in your **System Setting**</br>
-For example: Current version: 16.0.3|AMS 1.5.4|E</br>
+For example: Current version: 16.1.0|AMS 1.5.5|E</br>
